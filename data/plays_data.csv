@@ -1,0 +1,25 @@
+Tiempo,Partida,Cantidad total de palabras a adivinar,Nombre de evento,Usuarie - nick,usuarie -genero,usuarie -edad,Estado,Palabra,nivel,Puntos de jugada
+1621449115,1,8,inicio_partida,Will,masculino,29,,,1,0
+1621449116,1,8,intento,Will,masculino,29,ok,Lionel Messi,1,100
+1621449117,1,8,intento,Will,masculino,29,error,Neymar Jr.,1,-5
+1621449118,1,8,abandono,Will,masculino,29,abandonada,,1,0
+1624104000000,2,24,inicio_partida,Mark,masculino,9,,,3,0
+1624104060000,2,24,intento,Mark,masculino,9,error,Sergio Romero,3,-5
+1624104120000,2,24,abandono,Mark,masculino,9,abandonada,,3,0
+1624132800000,3,24,inicio_partida,Pedro,masculino,19,,,3,0
+1624132860000,3,24,intento,Pedro,masculino,19,error,Jan Oblak,3,-5
+1624132920000,3,24,intento,Pedro,masculino,19,error,Alejandro Gómez,3,-5
+1624132980000,3,24,abandono,Pedro,masculino,19,abandonada,,3,0
+1624219200000,4,24,inicio_partida,Steve,masculino,39,,,3,0
+1624219260000,4,24,intento,Steve,masculino,39,error,Enzo Pérez,3,-5
+1624219320000,4,24,intento,Steve,masculino,39,error,Éver Banega,3,-5
+1624219380000,4,24,abandono,Steve,masculino,39,abandonada,,3,0
+1624226400000,5,24,inicio_partida,Ferb,masculino,49,,,3,0
+1624226460000,5,24,intento,Ferb,masculino,49,error,Jadon Sancho,3,-5
+1624226520000,5,24,intento,Ferb,masculino,49,error,Ángel Di María,3,-5
+1624226580000,5,24,intento,Ferb,masculino,49,error,Diego Valeri,3,-5
+1624226640000,5,24,abandono,Ferb,masculino,49,abandonada,,3,0
+1624230000000,6,8,inicio_partida,Will,masculino,29,,,1,0
+1624230010000,6,8,intento,Will,masculino,29,error,Diego Valeri,1,-5
+1624230020000,6,8,intento,Will,masculino,29,error,Franco Armani,1,-5
+1624230030000,6,8,abandono,Will,masculino,29,abandonada,,1,0
